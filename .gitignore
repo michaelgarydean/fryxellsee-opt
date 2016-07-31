@@ -1,2 +1,5 @@
-# exclude files over 100mb for GitHub
-Texture/06-DigitalTextures01.wav
+# For syncing and adding repos:
+/*
+
+# For uploading: exclude files over 100mb for GitHub
+# Texture/06-DigitalTextures01.wav
